@@ -138,7 +138,7 @@ All commands in this section are generally equivalent to calling [**ScrollConsol
 
 | Sequence | Code | Description | Behavior |
 |--------------------|------|-------------|------------------------------------------------------------------------------------------------------|
-| ESC \[ &lt;n&gt; S | SU | Scroll Up | Scroll text up by &lt;n&gt;. Also known as pan down, new lines fill in from the bottom of the screen |
+| ESC \[ &lt;n&gt; S | SU | Scroll Up | Scroll up by &lt;n&gt;. Also known as pan down, new lines fill in from the bottom of the screen |
 | ESC \[ &lt;n&gt; T | SD | Scroll Down | Scroll down by &lt;n&gt;. Also known as pan up, new lines fill in from the top of the screen |
 
 
